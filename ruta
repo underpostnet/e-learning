@@ -1,0 +1,14 @@
+Meta: ¿En cual de los 4 estaras? : UNDERpost.net
+
+MODULO 1: ENTORNO
+
+1.0) Entender estructura macro general front/api/back  (php css html js)
+1.1) despliegue entorno de desarrollo underpost library con git hasta hola mundo
+1.2) core js y responsive, uso de etiquetas in y fl en columnas
+1.3) interacion input append y git con equipo de desarrollo remoto
+1.4) definir que estamos haciendo (gestor de notas) y luego Definicion estetica
+1.5) Desarrollo del gestor hasta finalizar de manera monolitica
+
+MODULO 2: DATA
+
+2) Base de datos con json forma mas simple
